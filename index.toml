@@ -1,0 +1,136 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/archeology-plus.pw.toml"
+hash = "f464f80bcd6df1840011f3143c505de8863a37d6550351bb7d701b2542336a99"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "4ce8cd02fd6db139f101a9643068702bcc77dab491454e73a3bcf0638710a62a"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "f0f82f41fef1fbc7d19723170410c631894de34ba0701157a1a897bac0af34d1"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "201ab92700db942cff2f9815753a5fcc05b20b6cd432f4eae30249300116608b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "5945376058eb508f9a049134ed66dbc70c861d80d043441e03b10fa4338dc1e0"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "5bf3baf1706ad50fdc6acd148e5faa38bad93a6b7e4767a1ae889d5dbd370103"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "b7d04fcd38f84af79e1733f2f4912df51f40dbd5d196f5d6bbadce586b52136b"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "c9ee46aee098ea5b32c46b028b7bc3ee7138f3e5c92bee8515a2f2152cbb6506"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1817999655716ccd487c6096cea09af0d379176c73a773b3e16b33879e9f3690"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "060e75568f5ed015ccdcc973c6498503c9b712ebea4defac5fce3afdb5842fcf"
+metafile = true

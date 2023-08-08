@@ -1,0 +1,13 @@
+name = "N&N"
+author = "noah"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "475415f7c0063d7bddde405a51d6ab54164ac90f11f739d9f4c42e131dddaa25"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"
