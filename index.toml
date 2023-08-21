@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/archeology-plus.pw.toml"
-hash = "f464f80bcd6df1840011f3143c505de8863a37d6550351bb7d701b2542336a99"
+hash = "9a85ecd81e036e97f51c3a3c14f0c7ab2b192875628127df92677c0808a6815b"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
@@ -36,8 +36,13 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/craftify.pw.toml"
+hash = "58e4239ee6e1d49b72fe1891b1156681dd5d0a7e702921b52b711b4b7f975273"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
-hash = "f0f82f41fef1fbc7d19723170410c631894de34ba0701157a1a897bac0af34d1"
+hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
 
 [[files]]
@@ -47,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
+hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
 metafile = true
 
 [[files]]
@@ -62,12 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "201ab92700db942cff2f9815753a5fcc05b20b6cd432f4eae30249300116608b"
+hash = "a926612a0279c18515bdee95a18757aa5c200759b936129ed794748dc584f000"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
 metafile = true
 
 [[files]]
@@ -77,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5bf3baf1706ad50fdc6acd148e5faa38bad93a6b7e4767a1ae889d5dbd370103"
+hash = "a4ee77a7c1388ad1874cd4d7a174667d0eb2c836e6ff0d4cd1b7f1551c019ef2"
 metafile = true
 
 [[files]]
@@ -106,6 +111,11 @@ hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
 
 [[files]]
+file = "mods/minihud.pw.toml"
+hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
@@ -122,15 +132,15 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1817999655716ccd487c6096cea09af0d379176c73a773b3e16b33879e9f3690"
+hash = "0f1efdb0b4d2d86363281b90838eb40edf326f46b7c93640b7fe463cc10965b3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "060e75568f5ed015ccdcc973c6498503c9b712ebea4defac5fce3afdb5842fcf"
+hash = "8a3cead322790ad946980f3773835008f6fc9a876a30b6148513c8e94396d997"
 metafile = true
