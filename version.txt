@@ -1,39 +1,45 @@
-AppleSkin	[appleskin-fabric-mc1.20-2.5.0.jar]
-Archeology Plus	[archeologyplus-1.0.2.jar]
-Architectury API	[architectury-9.1.12-fabric.jar]
-Better Archeology	[betterarcheology-1.0.2.jar]
-Bobby	[bobby-5.0.1.jar]
-Cloth Config API	[cloth-config-11.1.106-fabric.jar]
-Concurrent Chunk Management Engine (Fabric)	[c2me-fabric-mc1.20.1-0.2.0+alpha.10.98.jar]
-Connected Glass	[connectedglass-1.1.7-fabric-mc1.20.jar]
-Continuity	[continuity-3.0.0-beta.3+1.20.1.jar]
-Controlling	[Controlling-fabric-1.20.1-12.0.2.jar]
-Craftify	[Craftify-1.20.1-1.11.0-fabric.jar]
-DashLoader	[dashloader-5.0.0-beta.2+1.20.0.jar]
-EMI	[emi-1.0.19+1.20.1+fabric.jar]
-EMI Loot	[emi_loot-0.6.5+1.20.1.jar]
-EMI Trades	[emitrades-fabric-1.2.0+mc1.20.1.jar]
-Fabric API	[fabric-api-0.87.0+1.20.1.jar]
-Fabric Language Kotlin	[fabric-language-kotlin-1.10.8+kotlin.1.9.0.jar]
-FallingTree	[FallingTree-1.20.1-4.3.0.jar]
-FerriteCore	[ferritecore-6.0.0-fabric.jar]
-Indium	[indium-1.0.25+mc1.20.1.jar]
-Inventory Profiles Next	[InventoryProfilesNext-fabric-1.20-1.10.7.jar]
-Jade ­ƒöì	[Jade-1.20-fabric-11.5.1.jar]
-Krypton	[krypton-0.2.3.jar]
-Light Overlay	[light-overlay-8.0.0.jar]
-Litematica	[litematica-fabric-1.20.1-0.15.3.jar]
-Lithium	[lithium-fabric-mc1.20.1-0.11.2.jar]
-MaLiLib	[malilib-fabric-1.20.1-0.16.1.jar]
-MiniHUD	[minihud-fabric-1.20.1-0.27.0.jar]
-Mod Menu	[modmenu-7.2.1.jar]
-No Chat Reports	[NoChatReports-FABRIC-1.20.1-v2.2.2.jar]
-Not Enough Animations	[notenoughanimations-fabric-1.6.4-mc1.20.jar]
-Reese's Sodium Options	[reeses_sodium_options-1.6.5+mc1.20.1-build.95.jar]
-Searchables	[Searchables-fabric-1.20.1-1.0.1.jar]
-Sodium	[sodium-fabric-mc1.20.1-0.5.2.jar]
-Sodium Extra	[sodium-extra-0.5.1+mc1.20.1-build.112.jar]
-SuperMartijn642's Core Lib	[supermartijn642corelib-1.1.12b-fabric-mc1.20.jar]
-Xaero's Minimap	[Xaeros_Minimap_23.6.3_Fabric_1.20.jar]
-Xaero's World Map	[XaerosWorldMap_1.33.1_Fabric_1.20.jar]
-libIPN	[libIPN-fabric-1.20-4.0.0.jar]
+AppleSkin (appleskin-fabric-mc1.20-2.5.0.jar)
+Archeology Plus (archeologyplus-1.0.2.jar)
+Architectury API (architectury-9.1.12-fabric.jar)
+Better Archeology (betterarcheology-1.0.2.jar)
+Bobby (bobby-5.0.1.jar)
+Cloth Config API (cloth-config-11.1.106-fabric.jar)
+Concurrent Chunk Management Engine (Fabric) (c2me-fabric-mc1.20.1-0.2.0+alpha.10.98.jar)
+Connected Glass (connectedglass-1.1.7-fabric-mc1.20.jar)
+Continuity (continuity-3.0.0-beta.3+1.20.1.jar)
+Controlling (Controlling-fabric-1.20.1-12.0.2.jar)
+Craftify (Craftify-1.20.1-1.11.0-fabric.jar)
+DashLoader (dashloader-5.0.0-beta.2+1.20.0.jar)
+Debugify (Debugify-1.20.1+2.0.jar)
+Dynamic FPS (dynamic-fps-2.4.0.jar)
+Dynamic View[Fabric] (dynview-fabric-1.20.1-3.2.jar)
+EMI (emi-1.0.19+1.20.1+fabric.jar)
+EMI Loot (emi_loot-0.6.5+1.20.1.jar)
+EMI Trades (emitrades-fabric-1.2.0+mc1.20.1.jar)
+Enhanced Block Entities (enhancedblockentities-0.9+1.20.jar)
+Entity Culling (entityculling-fabric-1.6.2-mc1.20.jar)
+Fabric API (fabric-api-0.87.0+1.20.1.jar)
+Fabric Language Kotlin (fabric-language-kotlin-1.10.8+kotlin.1.9.0.jar)
+FallingTree (FallingTree-1.20.1-4.3.0.jar)
+FerriteCore (ferritecore-6.0.0-fabric.jar)
+Indium (indium-1.0.25+mc1.20.1.jar)
+Inventory Profiles Next (InventoryProfilesNext-fabric-1.20-1.10.7.jar)
+Jade ­ƒöì (Jade-1.20-fabric-11.5.1.jar)
+Krypton (krypton-0.2.3.jar)
+libIPN (libIPN-fabric-1.20-4.0.0.jar)
+Light Overlay (light-overlay-8.0.0.jar)
+Litematica (litematica-fabric-1.20.1-0.15.3.jar)
+Lithium (lithium-fabric-mc1.20.1-0.11.2.jar)
+MaLiLib (malilib-fabric-1.20.1-0.16.1.jar)
+MiniHUD (minihud-fabric-1.20.1-0.27.0.jar)
+Mod Menu (modmenu-7.2.1.jar)
+No Chat Reports (NoChatReports-FABRIC-1.20.1-v2.2.2.jar)
+Not Enough Animations (notenoughanimations-fabric-1.6.4-mc1.20.jar)
+Reese's Sodium Options (reeses_sodium_options-1.6.5+mc1.20.1-build.95.jar)
+Searchables (Searchables-fabric-1.20.1-1.0.1.jar)
+Sodium (sodium-fabric-mc1.20.1-0.5.2.jar)
+Sodium Extra (sodium-extra-0.5.1+mc1.20.1-build.112.jar)
+SuperMartijn642's Core Lib (supermartijn642corelib-1.1.12b-fabric-mc1.20.jar)
+Xaero's Minimap (Xaeros_Minimap_23.6.3_Fabric_1.20.jar)
+Xaero's World Map (XaerosWorldMap_1.33.1_Fabric_1.20.jar)
+YetAnotherConfigLib (yet-another-config-lib-fabric-3.1.0+1.20.jar)
