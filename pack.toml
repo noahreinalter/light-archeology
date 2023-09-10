@@ -1,12 +1,12 @@
 name = "Light-Archeology"
 author = "noah"
-version = "1.1.5"
+version = "1.1.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4ef70113232f497ac6746b2c009149a97d3d198844bf20c758be4f2305164c71"
+hash = "e479daea9011cea855bcb69d469558ab32a6e8e5c21a82b3ff8133d4047cc805"
 
 [versions]
 fabric = "0.14.22"
