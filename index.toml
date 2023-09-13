@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anvil-fix-reborn.pw.toml"
+hash = "7b8a525596c735671a44c281164d6fc7ab4e2c18be298a8f420f6bc301eef071"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
@@ -27,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c1f8f41882416f428df817680e011795b56e1894594fd663eba03e48b56fbdc6"
+hash = "fc47c198490faa6448c404d5d80c7ab7afc4481ec005a137733efb4d41aadd9c"
 metafile = true
 
 [[files]]
