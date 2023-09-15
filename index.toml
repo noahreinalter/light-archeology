@@ -36,6 +36,11 @@ hash = "fc47c198490faa6448c404d5d80c7ab7afc4481ec005a137733efb4d41aadd9c"
 metafile = true
 
 [[files]]
+file = "mods/clear-fix.pw.toml"
+hash = "6b42839187f13410d7b6c876b748a60ccb01403b83aa7dd8a9a55023464c4fe0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true

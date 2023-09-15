@@ -1,0 +1,13 @@
+name = "Clear-fix"
+filename = "clear-fix-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n13xynaE/versions/1PBOeLFc/clear-fix-1.0.jar"
+hash-format = "sha1"
+hash = "a991fdae82fe463aab5aa9fc00d9f811a6512d3d"
+
+[update]
+[update.modrinth]
+mod-id = "n13xynaE"
+version = "1PBOeLFc"
