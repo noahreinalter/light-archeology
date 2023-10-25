@@ -21,6 +21,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "d995fbc8df8eb912e605c199f7073cc37108f40be97b547ac70be8b89ef7a961"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "4ce8cd02fd6db139f101a9643068702bcc77dab491454e73a3bcf0638710a62a"
 metafile = true
@@ -36,6 +41,11 @@ hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
 
 [[files]]
+file = "mods/casualness-delight.pw.toml"
+hash = "e5687d016316eef54c3d11d950f17059b59ff08b305d7d17b16ac99daa74525c"
+metafile = true
+
+[[files]]
 file = "mods/clear-fix.pw.toml"
 hash = "6b42839187f13410d7b6c876b748a60ccb01403b83aa7dd8a9a55023464c4fe0"
 metafile = true
@@ -43,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
 metafile = true
 
 [[files]]
@@ -71,6 +86,11 @@ hash = "a561bf2a6ab63d45c96d37b45277bcbcddb9ddc6443d3fa618026692a2b2e528"
 metafile = true
 
 [[files]]
+file = "mods/ctrl-q.pw.toml"
+hash = "ad2462959438c5181844602ff8489ff7397d87bf7dd1f42b6f9838cd66fc7bc9"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
@@ -78,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "dff7d55d6cf7f676aee2b59d4f23024caab1ad20576982b46643ef5d74eb423e"
 metafile = true
 
 [[files]]
@@ -116,8 +141,18 @@ hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "8b8763ec329f771bc5f7b0c22b7c9ea7173624fa5795fc66ef83ac4344de11bd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
 metafile = true
 
 [[files]]
@@ -136,8 +171,18 @@ hash = "a926612a0279c18515bdee95a18757aa5c200759b936129ed794748dc584f000"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/festive-delight.pw.toml"
+hash = "26c1620180c65d816280a96354065a9124696e71c1795b4a020c925cef21e271"
 metafile = true
 
 [[files]]
@@ -176,6 +221,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "6f608fc4e861f6156368b2a3b706645755030bf6a04dc1f59166c8b22cba872c"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
 metafile = true
@@ -201,8 +251,23 @@ hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
 
 [[files]]
+file = "mods/random-bone-meal-flowers.pw.toml"
+hash = "3b5584bd1c48d70a0070f8d8a08fc86c9b4452f99b6c6b9e8ae30dc6ddd0c970"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "6c370d2bb8334183da9af84437b0f94386e1cb04f66b791b8abc4f363abb73be"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "d03b1d511dd17ebff76ce77c5133ec684ef48aa84334e1c4cac82b2ad533ca1a"
 metafile = true
 
 [[files]]
@@ -216,6 +281,11 @@ hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
 
 [[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "c2fb8a64bc4610b7d026dc4cce78ad2a2f7264e5be4755849187e3caed5cac55"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
@@ -223,6 +293,16 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
+metafile = true
+
+[[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "ad75646b322222189a87048b76db01ef841c07917a04628f5b6fe7a526cfe5c7"
+metafile = true
+
+[[files]]
+file = "mods/villager-death-messages.pw.toml"
+hash = "dc25a14f89de9c25a1e1c65fce656917e0745f2e554526e99aada68a2b8d3e98"
 metafile = true
 
 [[files]]
