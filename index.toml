@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
+hash = "e2d40bf32278f3d2b65fae32af10f6a7ea38f49e74868fb30fbeb939a7983af1"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/dismount-entity.pw.toml"
-hash = "dff7d55d6cf7f676aee2b59d4f23024caab1ad20576982b46643ef5d74eb423e"
+hash = "e2474e10abbf72c5ee8cdddcfcdfcc3d3f997df01bed0ff6a2559e6b84449415"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "61d4f489d43922fb32e1868ddce2129ecfaddb40e42029908d41142057a28f89"
+hash = "9884c9af4ba83cbdf8bc6b102a257068566641a17d2c6dde63dcf41d0dd0603e"
 metafile = true
 
 [[files]]
@@ -157,17 +157,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4091b4282d862e53d617b33475ded505384e6475bd4c5c4ea1f15ccfcf978427"
+hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "a926612a0279c18515bdee95a18757aa5c200759b936129ed794748dc584f000"
+hash = "9e2a974e3b686e1e0370722b2e59497c99baeff1a844ff30131a22818d17f3b7"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-bone-meal-flowers.pw.toml"
-hash = "3b5584bd1c48d70a0070f8d8a08fc86c9b4452f99b6c6b9e8ae30dc6ddd0c970"
+hash = "d2eb2552c9a94e23d3ee74647a0801049a19e1a6a3ba938e7295253e525f91f3"
 metafile = true
 
 [[files]]
@@ -262,12 +262,12 @@ metafile = true
 
 [[files]]
 file = "mods/replanting-crops.pw.toml"
-hash = "6c370d2bb8334183da9af84437b0f94386e1cb04f66b791b8abc4f363abb73be"
+hash = "9d6ac21952256b0f15c22fc7be6166b2b12ff0d4b24cf05d1fbe84bfa83e4fd0"
 metafile = true
 
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "d03b1d511dd17ebff76ce77c5133ec684ef48aa84334e1c4cac82b2ad533ca1a"
+hash = "873190452d1dcf52d8c5ffdd4c2110d4a4040d477e009dfa569809ac2e47e60f"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-death-messages.pw.toml"
-hash = "dc25a14f89de9c25a1e1c65fce656917e0745f2e554526e99aada68a2b8d3e98"
+hash = "8a9c36a65c6e3e292edb368cbde1423356ef37b57e6b5657b1e32eafc83d0696"
 metafile = true
 
 [[files]]
