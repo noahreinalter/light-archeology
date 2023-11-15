@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/recipies/cinnamon.js"
+hash = "5f6e27dd1b743dea8af6b3189a92663de1dc7f78c751167e2c4903eefb6d4a7f"
+
+[[files]]
 file = "mods/anvil-fix-reborn.pw.toml"
 hash = "7b8a525596c735671a44c281164d6fc7ab4e2c18be298a8f420f6bc301eef071"
 metafile = true
@@ -211,6 +215,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "457884a81ab409eba09b3f0ac7a4581e9ae03c13934375e03eb552d4069e1364"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "8547edbdc700238255794cdbb3b142d2bdb9f17a65b36ac1ce3c92e1aa942c3d"
 metafile = true
@@ -268,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/replanting-crops.pw.toml"
 hash = "9d6ac21952256b0f15c22fc7be6166b2b12ff0d4b24cf05d1fbe84bfa83e4fd0"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "c7bf46dfca5cae2d262d2bde16a07c2671f4ae736d17f39338778ff42a712b6f"
 metafile = true
 
 [[files]]
