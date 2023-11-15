@@ -295,6 +295,11 @@ hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
