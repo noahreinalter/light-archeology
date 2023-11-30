@@ -1,13 +1,13 @@
 name = "Archeology Plus"
-filename = "archeologyplus-1.0.2.jar"
+filename = "archeologyplus-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xJ3jwmS6/versions/WyxGzaQ6/archeologyplus-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/xJ3jwmS6/versions/ZpdU7hIq/archeologyplus-2.0.0.jar"
 hash-format = "sha1"
-hash = "da15137fb2d2c82226dbad935aad62ccdb849d88"
+hash = "685a1070df8d7f633f3693b8011e24005057c6a6"
 
 [update]
 [update.modrinth]
 mod-id = "xJ3jwmS6"
-version = "WyxGzaQ6"
+version = "ZpdU7hIq"
