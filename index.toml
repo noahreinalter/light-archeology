@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9c5b2ccf44210ccfd17b8f39e1fe5d7cb27e0acc78abecc855917ac5a3b7c2b5"
+hash = "e49f32dca641dcf1fb8aa10589efc1344fe7ede1d872a4f78440d6de17cfd361"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b9125c39c0cdfdf11287f16e856b4ff1823b19d58e6f05a7066d15f14ac64aa6"
+hash = "919cf3088c29f42ac95d83ebfafbd09730289b4fc3371106abc03731a6142bf7"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
+hash = "1c016f800988efb78998ad081203e9789f720d9ae81826fd8c191eecdcc15ad3"
 metafile = true
 
 [[files]]
