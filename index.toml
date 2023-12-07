@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e49f32dca641dcf1fb8aa10589efc1344fe7ede1d872a4f78440d6de17cfd361"
+hash = "207cb16cc3745c3a10bd99ab41cb683dc4cf388e733c683b4c1d84a6f785e874"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "6444249aa1ed76a7af265c0ca3f0883be0c2c1837cd5c1080455dad5b5a30cda"
+hash = "9e4e6ceb3475fe66e3bc904a78ecf38eadee3d1dd118566e8a21bb9d268514cb"
 metafile = true
 
 [[files]]
@@ -441,12 +441,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "051834b92b9cdf5f93e61c20e167c9f456a59b1c683667b867f675c28a25f67c"
+hash = "dd76a7b6505ebef5beefd48742509d31be1e232051bf08c32ccabbf88ae9d313"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1feec673626f914308c517f2ed29317cb1ca3124d7854667449cf8bbed3e126d"
+hash = "f79ac61306ede9d4037235e540fb6f9046a5fa20ef1b24b2639c6ca78addd165"
 metafile = true
 
 [[files]]
