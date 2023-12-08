@@ -35,6 +35,11 @@ hash = "d995fbc8df8eb912e605c199f7073cc37108f40be97b547ac70be8b89ef7a961"
 metafile = true
 
 [[files]]
+file = "mods/beacons-for-all.pw.toml"
+hash = "c59aac56b4bedd847d102d5b96e8901fa14010d69103e01f701356ae2ec6218a"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "74a03a26c55f43efdfd2fe872fbe3af5cb17ab1161d4b1c6ce8da136abc55917"
 metafile = true
@@ -87,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "f292a7607f682264fa89245e1851c21bc654fedebf3c9b0d60decc275e512549"
+metafile = true
+
+[[files]]
+file = "mods/conduits-prevent-drowned.pw.toml"
+hash = "120e47a2c791632ddf231b486fd97f2d097f396c2847c4a33070c25175668c00"
 metafile = true
 
 [[files]]
