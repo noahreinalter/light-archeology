@@ -1,6 +1,6 @@
 name = "Light-Archeology"
 author = "noah"
-version = "1.6.1"
+version = "1.6.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "739c0a7f9a53219381aa29584ec7189b19dbc5242f1c63461740098a54eb936e"
 
 [versions]
-fabric = "0.14.24"
+fabric = "0.15.3"
 minecraft = "1.20.1"
