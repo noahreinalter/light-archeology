@@ -1,0 +1,13 @@
+name = "Use Server Name"
+filename = "UseServerName-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/azykZelP/versions/qlLeXQVD/UseServerName-1.1.jar"
+hash-format = "sha1"
+hash = "e3bd88040703a01662bc63e5121a7867dc1d240a"
+
+[update]
+[update.modrinth]
+mod-id = "azykZelP"
+version = "qlLeXQVD"

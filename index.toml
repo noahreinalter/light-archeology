@@ -445,6 +445,11 @@ hash = "dbd264fbbc7d192be197aa465bdf33f27950a113fe09da1b4a58c226a0ed5c66"
 metafile = true
 
 [[files]]
+file = "mods/use-server-name.pw.toml"
+hash = "7e3b7e7f0d7058d9fc01f7beb681c7e64629b7f9d2afed6153d5735329d87a41"
+metafile = true
+
+[[files]]
 file = "mods/villager-death-messages.pw.toml"
 hash = "3cb81659c84ecc9b55e0b242945a14cb070984e579260f9f4e83e729a452ced4"
 metafile = true
