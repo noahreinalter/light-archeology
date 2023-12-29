@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/use-server-name.pw.toml"
-hash = "7e3b7e7f0d7058d9fc01f7beb681c7e64629b7f9d2afed6153d5735329d87a41"
+hash = "5d7b079fd40380a3d1d6cc408ac4f50d61ba8a949669c226d14e0e4e614ce38c"
 metafile = true
 
 [[files]]
