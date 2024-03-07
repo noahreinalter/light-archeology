@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/zYuGPZIx/versions/Yf7nWvMM/CasualnessDelight-1.20.1-0.3a.jar"
 hash-format = "sha1"
-hash = "0d2b822e3f3e438cee2c930933306ea9ad95c14e"
+hash = "7d30a5d8767c39c572340ea61998453ab0ccfc6e"
 
 [update]
 [update.modrinth]

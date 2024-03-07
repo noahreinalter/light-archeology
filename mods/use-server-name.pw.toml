@@ -1,13 +1,13 @@
 name = "Use Server Name"
-filename = "UseServerName-1.4.jar"
+filename = "UseServerName-2.1.0+mc1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/azykZelP/versions/i7sYtfsc/UseServerName-1.4.jar"
+url = "https://cdn.modrinth.com/data/azykZelP/versions/nrWjBWpH/UseServerName-2.1.0%2Bmc1.20.4.jar"
 hash-format = "sha1"
-hash = "fd7aff2469065cc24c924c5d0e598d87e796ca13"
+hash = "a6f61a5bfd20f6e2a09df246d279da1bddd232f8"
 
 [update]
 [update.modrinth]
 mod-id = "azykZelP"
-version = "i7sYtfsc"
+version = "nrWjBWpH"
